@@ -18,7 +18,7 @@ Derivative*
 
 The purpose of this book is two-fold:
 
-* to teach the fundamentals of TouchDesigner 088
+* to teach the fundamentals of TouchDesigner 099
 
 * to create a community-driven resource for beginners
 
@@ -50,13 +50,13 @@ Starting from possibly the most important aspect of the description, TouchDesign
 
 The second aspect of the description is that TouchDesigner is node-based. This mean that instead of opening a text document and typing line after line of code, TouchDesigner's graphical interface is used to make applications out of nodes. Each node, or Operator in TouchDesigner, performs a specific, small, and granular action. To perform complex tasks, a handful of nodes will work together. To send information between these nodes, their inputs and outputs are wired together. There are many node-based programming languages in existence, such as Cycling 74's Max/MSP, but what sets TouchDesigner apart is it's visual nature.
 
-Everything in TouchDesigner has a visual counterpart. All the Operators have viewers. Everything, whether it be text, control data, audio, videos, and more, is visualized through each and every operation that is performed. This is unlike any traditional programming, and even node-based, language, but it is what makes TouchDesigner a fantastic environment to work with. Learning how to do many complex tasks is greatly simplified by the ability to visualize the steps involved, every step of the way. 
+Everything in TouchDesigner has a visual counterpart. All the Operators have viewers. Everything, whether it be text, control data, audio, videos, and more, is visualized through each and every operation that is performed. This is unlike any traditional programming, and even node-based languages, but it is what makes TouchDesigner a fantastic environment to work with. Learning how to do many complex tasks is greatly simplified by the ability to visualize the steps involved, every step of the way. 
 
 <br>
 
 ## Accessing the book
 
-There are multiple ways to access an Introduction to TouchDesigner 088. Since converting the book to using Gitbooks, you may now  download the PDF, epub, or mobi version of the book from the link below:
+There are multiple ways to access an Introduction to TouchDesigner 099. Since converting the book to using Gitbooks, you may now  download the PDF, epub, or mobi version of the book from the link below:
 
 https://www.gitbook.com/book/nvoid/introduction-to-touchdesigner/details
 
